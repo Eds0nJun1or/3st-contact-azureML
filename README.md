@@ -14,15 +14,15 @@ Falando sobre o Speech Studio, eu acredito que a "tradução" do áudio em texto
 
 A Language Studio da Microsoft Azure é uma ferramenta poderosa que eu posso usar para analisar sentimentos expressos em texto. Com ela, consigo classificar emoções, como positivas, negativas ou neutras. Essa análise fornece insights valiosos para ajustar estratégias de negócios, melhorar a experiência do cliente e tomar decisões informadas. Em setores financeiros, por exemplo, posso monitorar a reação do mercado a eventos econômicos, prevendo tendências e gerenciando riscos. A ferramenta é altamente personalizável para atender às necessidades específicas e oferece facilidade de integração e escalabilidade. Além disso, prioriza a segurança e privacidade dos dados processados.
 
-## Print Language 1 Studio
+## Print 1 Language Studio
 
 ![Print Language Studio 1](sentence1.png)
 
-## Print Language 2 Studio
+## Print 2 Language Studio
 
 ![Print Language Studio 2](sentence2.png)
 
-## Print Language 3 Studio
+## Print 3 Language Studio
 
 ![Print Language Studio 3](sentence3.png)
 
